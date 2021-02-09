@@ -1,4 +1,4 @@
-import BlockList from './BlockList';
+
 
 const Triggers=()=>{
     return(

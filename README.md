@@ -1,6 +1,9 @@
 
 #Re-implementation of React from the website (https://alyssax.com/x/flowy/) and github-repo(https://github.com/alyssaxuu/flowy)
 
+#Deployed at site :https://jcript-coder.github.io/React-flowy/
+
+#minified files are not deployed
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
