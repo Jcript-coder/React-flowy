@@ -9,9 +9,9 @@ import BlockList from './BlockList';
 const SubNav=()=>{
         return(
             <div id="subnav">
-              <Triggers isActive={true}/>
-              <ActionBar isActive={true}/>
-              <LoggerBar isActive={true}/>
+              <Triggers id="triggers" className="navactive side"/>
+              <ActionBar id="actions" className="navdisabled" />
+              <LoggerBar id="loggers" className="navdisabled"/>
             </div>
         )
 }

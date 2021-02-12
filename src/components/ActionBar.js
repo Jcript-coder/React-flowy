@@ -4,8 +4,8 @@ const ActionBar=(props)=>{
     console.log(props.isActive)
     return(
         <>
-            <div id="actions" className="navdisabled side">Actions</div>
-           
+            <div id={props.id} className={props.className}>Actions</div>
+        
         </>
     )
 }

@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
         <NavBar />
-        <LeftCard />
+        <LeftCard id="leftcard"/>
         <PopWrap />
         <Canvas />
     </div>

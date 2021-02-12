@@ -1,10 +1,10 @@
 import BlockList from "./BlockList"
 
 
-const Triggers=()=>{
+const Triggers=(props)=>{
     return(
         <>
-            <div id="triggers" className="navactive side">Triggers</div>
+            <div id={props.id} className={props.className}>Triggers</div>
           
         </>
     )

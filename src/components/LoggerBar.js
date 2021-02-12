@@ -1,10 +1,9 @@
 import BlockList from './BlockList';
 
-const LoggerBar=()=>{
+const LoggerBar=(props)=>{
     return(
         <>
-            <div id="loggers" className="navdisabled side">Loggers</div>
-            
+            <div id={props.id} className={props.className}>Loggers</div>
         </>
     )
 }

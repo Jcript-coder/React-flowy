@@ -1,8 +1,9 @@
 import closeleft from '../assets/closeleft.svg';
-const CloseCard=()=>{
+
+const CloseCard=(props)=>{
     return(
         <>
-        <div id="closecard">
+        <div id={props.id}>
                 <img src={closeleft} />
         </div>
         </>

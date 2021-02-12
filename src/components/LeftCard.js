@@ -4,11 +4,11 @@ import SearchBar from './SearchBar';
 
 
 import SubNav from './SubNav'
-const LeftCard =()=>{
+const LeftCard =(props)=>{
     return(
         <>
-        <div id="leftcard">
-            <CloseCard/>
+        <div id={props.id}>
+            <CloseCard id="closecard"/>
             <p id="header">Blocks</p>
             <SearchBar />
             <SubNav />
