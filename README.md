@@ -4,6 +4,9 @@
 #Deployed at site :https://jcript-coder.github.io/React-flowy/
 
 #minified files are not deployed
+
+#deferred the non-critcal CSS to eliminate render blocking issues-->achieved a page speed of 98/100
+on https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fjcript-coder.github.io%2FReact-flowy%2F
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
