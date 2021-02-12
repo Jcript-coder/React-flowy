@@ -1,10 +1,13 @@
+import {useState} from 'react';
 
 const RightNav=()=>{
+    const [discard,setDiscard]=useState('Discard');
+    const[publish,setPublish]=useState('Publish to site')
     return(
         <>
             <div id="buttonsright">
-            <div id="discard">Discard</div>
-            <div id="publish">Publish to site</div>
+            <div id="discard">{discard}</div>
+            <div id="publish">{publish}</div>
         </div>
         </>
     )

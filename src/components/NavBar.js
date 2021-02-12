@@ -2,6 +2,7 @@ import LeftSide from './LeftSide';
 import CenterNav from './CenterNav';
 import RightNav from './RightNav';
 
+
 const NavBar=()=>{
     return(
         <>

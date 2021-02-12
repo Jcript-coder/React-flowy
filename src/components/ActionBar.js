@@ -1,10 +1,11 @@
 
 
-const ActionBar=()=>{
+const ActionBar=(props)=>{
+    console.log(props.isActive)
     return(
         <>
             <div id="actions" className="navdisabled side">Actions</div>
-            
+           
         </>
     )
 }

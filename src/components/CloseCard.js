@@ -1,9 +1,9 @@
-
+import closeleft from '../assets/closeleft.svg';
 const CloseCard=()=>{
     return(
         <>
         <div id="closecard">
-                <img src="assets/closeleft.svg"/>
+                <img src={closeleft} />
         </div>
         </>
     )

@@ -4,7 +4,7 @@ const LoggerBar=()=>{
     return(
         <>
             <div id="loggers" className="navdisabled side">Loggers</div>
-           
+            
         </>
     )
 }
