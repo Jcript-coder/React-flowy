@@ -1,6 +1,8 @@
 import BlockListDetails from './BlockListDetails';
 
-const BlockList=()=>{
+const BlockList=(props)=>{
+    console.log(props);
+
     return(
         <>
              <div id="blocklist">
