@@ -1,11 +1,14 @@
 
 
 const ActionBar=(props)=>{
-    console.log(props.isActive)
+    const handleClick=()=>{
+        console.log("I was clicked")
+    }
+
     return(
         <>
-            <div id={props.id} className={props.className}>Actions</div>
-        
+            <div id={props.id} className={props.className} onClick={handleClick}>Actions</div>
+
         </>
     )
 }
