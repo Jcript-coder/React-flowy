@@ -1,24 +1,32 @@
 {
   "files": {
     "main.css": "/React-flowy/static/css/main.becb837b.chunk.css",
-    "main.js": "/React-flowy/static/js/main.e56cd031.chunk.js",
-    "main.js.map": "/React-flowy/static/js/main.e56cd031.chunk.js.map",
-    "runtime-main.js": "/React-flowy/static/js/runtime-main.1ec9a153.js",
-    "runtime-main.js.map": "/React-flowy/static/js/runtime-main.1ec9a153.js.map",
-    "static/js/2.49067d17.chunk.js": "/React-flowy/static/js/2.49067d17.chunk.js",
-    "static/js/2.49067d17.chunk.js.map": "/React-flowy/static/js/2.49067d17.chunk.js.map",
-    "static/js/3.ff7ad402.chunk.js": "/React-flowy/static/js/3.ff7ad402.chunk.js",
-    "static/js/3.ff7ad402.chunk.js.map": "/React-flowy/static/js/3.ff7ad402.chunk.js.map",
+    "main.js": "/React-flowy/static/js/main.67094dea.chunk.js",
+    "main.js.map": "/React-flowy/static/js/main.67094dea.chunk.js.map",
+    "runtime-main.js": "/React-flowy/static/js/runtime-main.b874bd6b.js",
+    "runtime-main.js.map": "/React-flowy/static/js/runtime-main.b874bd6b.js.map",
+    "static/js/2.60a5f1b4.chunk.js": "/React-flowy/static/js/2.60a5f1b4.chunk.js",
+    "static/js/2.60a5f1b4.chunk.js.map": "/React-flowy/static/js/2.60a5f1b4.chunk.js.map",
+    "static/js/3.aabbb15b.chunk.js": "/React-flowy/static/js/3.aabbb15b.chunk.js",
+    "static/js/3.aabbb15b.chunk.js.map": "/React-flowy/static/js/3.aabbb15b.chunk.js.map",
     "index.html": "/React-flowy/index.html",
     "static/css/main.becb837b.chunk.css.map": "/React-flowy/static/css/main.becb837b.chunk.css.map",
-    "static/js/2.49067d17.chunk.js.LICENSE.txt": "/React-flowy/static/js/2.49067d17.chunk.js.LICENSE.txt",
+    "static/js/2.60a5f1b4.chunk.js.LICENSE.txt": "/React-flowy/static/js/2.60a5f1b4.chunk.js.LICENSE.txt",
+    "static/media/action.c900a048.svg": "/React-flowy/static/media/action.c900a048.svg",
+    "static/media/arrow.6fbcfe8a.svg": "/React-flowy/static/media/arrow.6fbcfe8a.svg",
+    "static/media/closeleft.9c2c2f56.svg": "/React-flowy/static/media/closeleft.9c2c2f56.svg",
+    "static/media/error.c7596f95.svg": "/React-flowy/static/media/error.c7596f95.svg",
+    "static/media/eye.64efb485.svg": "/React-flowy/static/media/eye.64efb485.svg",
+    "static/media/grabme.41302289.svg": "/React-flowy/static/media/grabme.41302289.svg",
     "static/media/logo.6ce24c58.svg": "/React-flowy/static/media/logo.6ce24c58.svg",
-    "static/media/index.css": "/React-flowy/static/media/tile.fbe7a47e.png"
+    "static/media/search.d7284137.svg": "/React-flowy/static/media/search.d7284137.svg",
+    "static/media/index.css": "/React-flowy/static/media/tile.fbe7a47e.png",
+    "static/media/time.36938854.svg": "/React-flowy/static/media/time.36938854.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ec9a153.js",
-    "static/js/2.49067d17.chunk.js",
+    "static/js/runtime-main.b874bd6b.js",
+    "static/js/2.60a5f1b4.chunk.js",
     "static/css/main.becb837b.chunk.css",
-    "static/js/main.e56cd031.chunk.js"
+    "static/js/main.67094dea.chunk.js"
   ]
 }
